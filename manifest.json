@@ -1,0 +1,47 @@
+
+{
+    "tutorials": [
+        {
+            "title": "Introduction",
+            "publisheddate": "07/30/2020",
+            "filename": "intro.md"
+        },
+        {         
+            "title": "Lab 1: Sign Up for your OCI Free Trial",
+            "description": "Login to Oracle Cloud",
+            "publisheddate": "03/10/2020",
+            "contentid": "12nnnn",
+            "filename":"lab1-sign-oci.md"
+        },
+        {
+            "title": "Lab 2: Setup your Local and Oracle Cloud environment",
+            "publisheddate": "07/30/2020",
+            "filename": "lab2-conf-vm.md"
+        },
+        {
+            "title": "Lab 3: Terraform",
+            "publisheddate": "09/29/2020",
+            "filename": "lab3-terraform.md"
+        },
+        {
+            "title": "Lab 4: Terraform - Deployment",
+            "publisheddate": "09/29/2020",
+            "filename": "lab4-deploy.md"
+        },
+        {
+            "title": "Lab 5: MySQL InnoDB Cluster",
+            "publisheddate": "09/29/2020",
+            "filename": "lab5-idc.md"
+        },
+        {
+            "title": "Lab 6: Destroy",
+            "publisheddate": "09/29/2020",
+            "filename": "lab6-destroy.md"
+        },
+        {
+            "title": "Lab 7: Resource Manager - Stack",
+            "publisheddate": "09/29/2020",
+            "filename": "lab7-stack.md"
+        }
+     ]
+}
